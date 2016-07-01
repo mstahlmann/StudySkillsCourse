@@ -1,6 +1,7 @@
 <?php
 // Start the session
 //test comment
+//expanded test comment for github tutorial
 session_start();
 $curpage = 1;
 if ($curpage == 1){
